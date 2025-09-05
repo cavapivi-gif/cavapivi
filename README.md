@@ -8,7 +8,7 @@ Site web de l'agence digitale **StudioJAE** - Solutions de croissance et dévelo
 ## 📄 Structure des pages principales
 
 ### Pages solutions
-- [Paid Media](https://studiojae.fr/solutions/paid-media/)
+- [Agence publicité SEA](https://studiojae.fr/solutions/paid-media/)
 - [Développement de site web](https://studiojae.fr/solutions/developpement/)
 - [Agence SEO](https://studiojae.fr/solutions/croissance-organique/)
 
