@@ -3,18 +3,18 @@
 ## 🎯 Présentation
 Site web de l'agence digitale **StudioJAE** - Solutions de croissance et développement web.
 
-**URL principale** : [studiojae.fr](https://studiojae.fr)
+**URL principale** : [StudioJae](https://studiojae.fr)
 
 ## 📄 Structure des pages principales
 
 ### Pages solutions
-- [Agence publicité SEA](https://studiojae.fr/solutions/paid-media/)
-- [Développement de site web](https://studiojae.fr/solutions/developpement/)
-- [Agence SEO](https://studiojae.fr/solutions/croissance-organique/)
+- [Agence publicité](https://studiojae.fr/solutions/paid-media/)
+- [Création de site web](https://studiojae.fr/solutions/developpement/)
+- [Agence SEO](https://studiojae.fr/solutions/seo/)
 
 ### Landing pages SEO locales
-- [Agence SEO Nice](https://studiojae.fr/solutions/croissance-organique/nice/)
-- [Agence SEO Cannes](https://studiojae.fr/solutions/croissance-organique/cannes/)
+- [Agence SEO Nice](https://studiojae.fr/solutions/seo/nice/)
+- [Agence SEO Cannes](https://studiojae.fr/solutions/seo/cannes/)
 
 ## 👨‍💻 Créateur
 **Elliot JAEGHERS**
@@ -22,3 +22,6 @@ Site web de l'agence digitale **StudioJAE** - Solutions de croissance et dévelo
 ### Réseaux
 - [CodePen](https://codepen.io/Elliot-JAEGHERS)
 - [ThemeForest](https://themeforest.net/user/warkito)
+
+### Partenaires
+- [LaPlumeRP](https://laplumerp.com/)
