@@ -12,10 +12,6 @@ Site web de l'agence digitale **StudioJAE** - Solutions de croissance et dévelo
 - [Création de site web](https://studiojae.fr/solutions/developpement/)
 - [Agence SEO](https://studiojae.fr/solutions/seo/)
 
-### Landing pages SEO locales
-- [Agence SEO Nice](https://studiojae.fr/solutions/seo/nice/)
-- [Agence SEO Cannes](https://studiojae.fr/solutions/seo/cannes/)
-
 ## 👨‍💻 Créateur
 **Elliot JAEGHERS**
 
